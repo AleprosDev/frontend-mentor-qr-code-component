@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Permanent+Marker&display=swap');
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.box{
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    font-family: 'Outfit', sans-serif;
+    width: 340px;
+}
+
+h1{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    margin: 15px 0px 0px 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+p{
+    margin: auto;
+    padding: 10px 40px 0px;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    margin: 0px 0px 30px 0px;
+}
+
+
+img{
+    width: 312px;
+    height: 312px;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
